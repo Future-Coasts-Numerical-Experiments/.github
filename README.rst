@@ -12,11 +12,13 @@ General Rules Regulations and Repo dos/donts:
 - Ask before doing something that can't be undone
 - Talk to the repo god before jumping into a repo
 - All new repos should have a README.rst document at the highest level which documents:
-
   - The repo god (e.g. who's leading the charge with the repo) and their contact details
   - Commit to main True/False
   - Documentation or links to documentation for any code environments
   - any other key info about the project.
+- Always update local copies before committing and pushing changes
+- If you are going to break something... please make a new branch
+- always include a comment with your commit.
 
 Privacy
 ======================
