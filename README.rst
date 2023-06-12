@@ -35,9 +35,9 @@ Wiki
 
 This landing page is public and is not going to be used for the collaborative wiki.  
 
-**Instead please use the WIKI REPO** **todo**
+**Instead please use the WIKI REPO**:  `wiki repo <https://github.com/Future-Coasts-Numerical-Experiments/Wiki>`_
 
-Github can automatically render RST and markdown.  I would suggest we use ReStructured Text.  While it's a litle more complicated than markdown it makes handling images **MUCH** easier.  I have included a how to use RST page in the wiki repo: [#todolink]. If you have questions on how to use RST please let me know, but there is a substantial amount of available documentation -- please read it before you hassle me!
+Github can automatically render RST and markdown.  I would suggest we use ReStructured Text.  While it's a litle more complicated than markdown it makes handling images **MUCH** easier.  I have included a `how to use RST page <https://github.com/Future-Coasts-Numerical-Experiments/Wiki/blob/main/RST_Cheatsheet.rst>`_ in the wiki repo: [#todolink]. If you have questions on how to use RST please let me know, but there is a substantial amount of available documentation -- please read it before you hassle me!
 
 The wiki repo is expected to contain documentation, but it is also considered appropriate to link to documentation within an experiment repo.
 
