@@ -9,10 +9,10 @@ General Rules Regulations and Repo dos/donts
 * Ask before doing something that can't be undone
 * Talk to the repo god before jumping into a repo
 * All new repos should have a README.rst document at the highest level which documents:
-  * The repo god (e.g. who's leading the charge with the repo) and their contact details
-  * Commit to main True/False
-  * Documentation or links to documentation for any code environments
-  * any other key info about the project.
+ * The repo god (e.g. who's leading the charge with the repo) and their contact details
+ * Commit to main True/False
+ * Documentation or links to documentation for any code environments
+ * any other key info about the project.
 
 Privacy
 **TODO** Question on privacy, I have currently set up the wiki repo as private, but does anyone have any objections to me making it public?  Similar question for any other repos we develop.
