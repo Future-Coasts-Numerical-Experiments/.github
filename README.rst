@@ -4,7 +4,8 @@ This is a landing point for the Future Coasts Numerical Experiments. This github
 
 Need access to the organisation: Contact Matt Dumont (Matt@komanawa.com) or other users
 
-General Rules Regulations and Repo dos/donts
+General Rules Regulations and Repo dos/donts:
+
 * Be Kind
 * Ask before doing something that can't be undone
 * Talk to the repo god before jumping into a repo
