@@ -25,7 +25,7 @@ General Rules Regulations and Repo dos/donts:
 Privacy
 ======================
 
-**TODO** Question on privacy, I have currently set up the wiki repo as private, but does anyone have any objections to me making it public?  Similar question for any other repos we develop.
+I have made the wiki repo public so that team members can have easy access to the wiki even if they are not super git inclinded, but currently all other repo's are private.  
 
 Structure
 ==============
